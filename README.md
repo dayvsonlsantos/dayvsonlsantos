@@ -5,8 +5,8 @@
 
 <div align="center">
   <a href="https://github.com/dayvsonlsantos">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=dayvsonlsantos&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dayvsonlsantos&layout=compact&langs_count=7&theme=merko"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=dayvsonlsantos&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dayvsonlsantos&layout=compact&langs_count=7&theme=merko"/>
 </div>
 
 <div style="display: inline_block"><br>
@@ -14,10 +14,8 @@
   <img align="center" alt="Dayvson-CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
   <img align="center" alt="Dayvson-Js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
  
-  <!--
-  <img align="right" alt="Dayvson-pic" height="150" style="border-radius:50px;" src="//https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
--->
-  ##
+##
+
 </div>
   
 <div>
@@ -27,5 +25,5 @@
   
 </div>
   
-  ![Snake animation](https://github.com/dayvsonlsantos/dayvsonlsantos/blob/main/.github/workflows/cobrinha.yml)
+![Snake animation](https://github.com/dayvsonlsantos/dayvsonlsantos/blob/output/github-contribution-grid-snake.svg)
   
