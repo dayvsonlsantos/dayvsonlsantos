@@ -18,7 +18,7 @@
   <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dayvsonlsantos&layout=compact&langs_count=7&theme=merko"/>
 </div>
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
 
 #### Linguagens
 
@@ -48,9 +48,10 @@
   <!--<img align="center" alt="Dayvson-" src="">-->
   
   <!--Mais badges: https://dev.to/envoy_/150-badges-for-github-pnk-->
- 
 
-</div>
+</div><br>
+
+##
   
 ![Snake animation](https://github.com/dayvsonlsantos/dayvsonlsantos/blob/output/github-contribution-grid-snake.svg)
   
