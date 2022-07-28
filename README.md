@@ -20,7 +20,7 @@
 
 <div style="display: inline_block">
 
-#### Linguagens
+#### Tecnologias
 
   <img align="center" alt="Dayvson-HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="Dayvson-CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
@@ -32,7 +32,7 @@
   <!--<img align="center" alt="Dayvson-Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">-->
   <!--<img align="center" alt="Dayvson-StyledComponents" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">-->
   
-#### Plataformas
+#### Ferramentas
   
   <img align="center" alt="Dayvson-VSCode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
   <img align="center" alt="Dayvson-Trello" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white">
