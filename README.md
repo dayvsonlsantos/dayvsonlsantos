@@ -1,6 +1,4 @@
-## Hi!
-
-My name is <b>Dayvson Lima</b>, and I'm currently studying <b>Analysis and Systems Development</b> at Senac.
+## Hi! 😜👋
 
 <div style="display:block;" align="center">
 
@@ -10,6 +8,8 @@ My name is <b>Dayvson Lima</b>, and I'm currently studying <b>Analysis and Syste
   <a href="https://www.linkedin.com/in/dayvsonlimasantos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
+My name is <b>Dayvson Lima</b>, and I'm currently studying <b>Analysis and Systems Development</b> at Senac.
 
 🔭 I’m currently learning React and Node.JS <br>
 📫 How to reach me: you can contact me through my profile on linkedin or emailing me 
