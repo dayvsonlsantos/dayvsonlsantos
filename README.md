@@ -1,4 +1,6 @@
-## Hi! I'm Dayvson
+## Hi!
+
+My name is <b>Dayvson Lima</b>, and I'm currently studying <b>Analysis and Systems Development</b> at Senac.
 
 <div style="display:block;" align="center">
 
@@ -9,7 +11,7 @@
   
 </div>
 
-🔭 I’m currently learning HTML, CSS e JS <br>
+🔭 I’m currently learning React and Node.JS <br>
 📫 How to reach me: you can contact me through my profile on linkedin or emailing me 
 
 <div align="center">
