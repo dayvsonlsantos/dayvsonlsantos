@@ -29,7 +29,7 @@ My name is <b>Dayvson Lima</b>, and I'm currently studying <b>Analysis and Syste
   </br>
   <img align="center" alt="Dayvson-Js" width="40" height="30" src="https://devicons.railway.app/i/javascript.svg">
   <!--<img align="center" alt="Dayvson-TypeScript" width="40" height="30" src="https://devicons.railway.app/i/typescript.svg">-->
-  <img align="center" alt="Dayvson-Next" width="40" height="30" src="https://devicons.railway.app/i/nextjs-light.svg">
+  <img align="center" alt="Dayvson-Next" width="40" height="30" src="https://devicons.railway.app/i/nextjs-dark.svg">
   <img align="center" alt="Dayvson-React" width="40" height="30" src="https://devicons.railway.app/i/react.svg">
   <img align="center" alt="Dayvson-HTML" width="40" height="30" src="https://devicons.railway.app/i/html5.svg">
   <img align="center" alt="Dayvson-CSS" width="40" height="30" src="https://devicons.railway.app/i/css3.svg">
