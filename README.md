@@ -3,7 +3,7 @@
 Me chamo <b>Dayvson Lima</b>, e estou me formando em Análise e Desenvolvimento de Sistemas na Faculdade Senac.
 
 🔭 Este é meu portifólio que contém a minha história como Desenvolvedor! 🚀🚀 <br>
-🌱 No momento estou me especializando em React, TypeScript e NodeJs ✏️💻 <br>
+🌱 No momento estou me especializando em Next.js, TypeScript e NodeJs ✏️💻 <br>
 📫 Como entrar em contato: Pode me chamar pelo Linkedin ou E-mail 😉 
 
 <hr>
@@ -11,16 +11,16 @@ Me chamo <b>Dayvson Lima</b>, e estou me formando em Análise e Desenvolvimento 
 My name is <b>Dayvson Lima</b>, and I'm currently studying <b>Analysis and Systems Development</b> at Senac.
 
 🔭 This is my portfolio that contains my story as a Developer! 🚀🚀 <br>
-🌱 I’m currently learning React, TypeScript e NodeJs ✏️💻 <br>
+🌱 I’m currently learning Next.js, TypeScript e NodeJs ✏️💻 <br>
 📫 How to reach me: you can contact me through my profile on linkedin or emailing me 😉
 
 <br>
 
 <div align="center">
   <a href="https://github.com/dayvsonlsantos">
-  <img height="145em" src="https://github-readme-stats.vercel.app/api?username=dayvsonlsantos&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
-  <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dayvsonlsantos&layout=compact&langs_count=7&theme=vue-dark"/>
-  <img height='180em' src='https://github-readme-streak-stats.herokuapp.com?user=dayvsonlsantos&theme=vue-dark&date_format=j%20M%5B%20Y%5D&fire=DD0000&ring=52DD81&dates=52DD81&stroke=ABCFDD' />
+  <img height="145em" src="https://github-readme-stats.vercel.app/api?username=dayvsonlsantos&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
+  <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dayvsonlsantos&layout=compact&langs_count=7&theme=gruvbox"/>
+  <img height='180em' src='https://github-readme-streak-stats.herokuapp.com?user=dayvsonlsantos&theme=gruvbox&date_format=j%20M%5B%20Y%5D&fire=DD0000&ring=52DD81&dates=52DD81&stroke=ABCFDD' />
 </div>
 
 <div style="display: inline_block">
@@ -29,6 +29,7 @@ My name is <b>Dayvson Lima</b>, and I'm currently studying <b>Analysis and Syste
   </br>
   <img align="center" alt="Dayvson-Js" width="40" height="30" src="https://devicons.railway.app/i/javascript.svg">
   <!--<img align="center" alt="Dayvson-TypeScript" width="40" height="30" src="https://devicons.railway.app/i/typescript.svg">-->
+  <img align="center" alt="Dayvson-Next" width="40" height="30" src="https://devicons.railway.app/i/nextjs-light.svg">
   <img align="center" alt="Dayvson-React" width="40" height="30" src="https://devicons.railway.app/i/react.svg">
   <img align="center" alt="Dayvson-HTML" width="40" height="30" src="https://devicons.railway.app/i/html5.svg">
   <img align="center" alt="Dayvson-CSS" width="40" height="30" src="https://devicons.railway.app/i/css3.svg">
@@ -38,9 +39,12 @@ My name is <b>Dayvson Lima</b>, and I'm currently studying <b>Analysis and Syste
   <img align="center" alt="Dayvson-StyledComponents" width="60" height="60" src="https://user-images.githubusercontent.com/102249811/191101190-e3d088af-a3d7-4341-8cb6-67bb020fc5cd.png">
   
   
+  
+  
   <!--<img align="center" alt="Dayvson-Node" width="40" height="30" src="https://devicons.railway.app/i/nodejs.svg">-->
   <img align="center" alt="Dayvson-MongoDb" width="40" height="30" src="https://devicons.railway.app/i/mongodb.svg">
   <img align="center" alt="Dayvson-MySQL" width="40" height="30" src="https://devicons.railway.app/i/mysql.svg">
+  <img align="center" alt="Dayvson-Docker" width="40" height="30" src="https://devicons.railway.app/i/docker.svg">
  
   </br>
 </div>
@@ -58,5 +62,5 @@ My name is <b>Dayvson Lima</b>, and I'm currently studying <b>Analysis and Syste
 
 ##
   
-![Snake animation](https://github.com/dayvsonlsantos/dayvsonlsantos/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/dayvsonlsantos/dayvsonlsantos/blob/output/github-contribution-grid-snake.svg) -->
   
