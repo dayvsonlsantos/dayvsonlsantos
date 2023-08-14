@@ -3,7 +3,7 @@
 Me chamo <b>Dayvson Lima</b>, e estou me formando em Análise e Desenvolvimento de Sistemas na Faculdade Senac.
 
 🔭 Este é meu portifólio que contém a minha história como Desenvolvedor! 🚀🚀 <br>
-🌱 No momento estou me especializando em Next.js, TypeScript e NodeJs ✏️💻 <br>
+🌱 No momento estou me especializando em Next.js, TypeScript, NodeJs e Java ✏️💻 <br>
 📫 Como entrar em contato: Pode me chamar pelo Linkedin ou E-mail 😉 
 
 <hr>
@@ -11,7 +11,7 @@ Me chamo <b>Dayvson Lima</b>, e estou me formando em Análise e Desenvolvimento 
 My name is <b>Dayvson Lima</b>, and I'm currently studying <b>Analysis and Systems Development</b> at Senac.
 
 🔭 This is my portfolio that contains my story as a Developer! 🚀🚀 <br>
-🌱 I’m currently learning Next.js, TypeScript e NodeJs ✏️💻 <br>
+🌱 I’m currently learning Next.js, TypeScript, NodeJs e Java ✏️💻 <br>
 📫 How to reach me: you can contact me through my profile on linkedin or emailing me 😉
 
 <br>
