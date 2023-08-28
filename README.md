@@ -61,6 +61,6 @@ My name is <b>Dayvson Lima</b>, and I'm currently studying <b>Analysis and Syste
 </div>
 
 ##
-  
-<!-- ![Snake animation](https://github.com/dayvsonlsantos/dayvsonlsantos/blob/output/github-contribution-grid-snake.svg) -->
+
+![snake gif](https://github.com/dayvsonlsantos/dayvsonlsantos/blob/output/github-contribution-grid-snake.svg)
   
