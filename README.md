@@ -3,7 +3,7 @@
 Me chamo <b>Dayvson Lima</b>, e estou me formando em Análise e Desenvolvimento de Sistemas na Faculdade Senac.
 
 🔭 Este é meu portifólio que contém a minha história como Desenvolvedor! 🚀🚀 <br>
-🌱 No momento estou me especializando em Next.js, TypeScript, Python ✏️💻 <br>
+🌱 No momento estou me especializando em Angular, TypeScript, Nest.js ✏️💻 <br>
 📫 Como entrar em contato: Pode me chamar pelo Linkedin ou E-mail 😉 
 
 <hr>
@@ -11,7 +11,7 @@ Me chamo <b>Dayvson Lima</b>, e estou me formando em Análise e Desenvolvimento 
 My name is <b>Dayvson Lima</b>, and I'm currently studying <b>Analysis and Systems Development</b> at Senac.
 
 🔭 This is my portfolio that contains my story as a Developer! 🚀🚀 <br>
-🌱 I’m currently learning Next.js, TypeScript, Python ✏️💻 <br>
+🌱 I’m currently learning Angular, TypeScript, Nest.js ✏️💻 <br>
 📫 How to reach me: you can contact me through my profile on linkedin or emailing me 😉
 
 <br>
@@ -27,25 +27,26 @@ My name is <b>Dayvson Lima</b>, and I'm currently studying <b>Analysis and Syste
 
 <div align="center">
   </br>
-  <img align="center" alt="Dayvson-Js" width="40" height="30" src="https://devicons.railway.app/i/javascript.svg">
-  <!--<img align="center" alt="Dayvson-TypeScript" width="40" height="30" src="https://devicons.railway.app/i/typescript.svg">-->
-  <img align="center" alt="Dayvson-Next" width="40" height="30" src="https://devicons.railway.app/i/nextjs-dark.svg">
-  <img align="center" alt="Dayvson-React" width="40" height="30" src="https://devicons.railway.app/i/react.svg">
   <img align="center" alt="Dayvson-HTML" width="40" height="30" src="https://devicons.railway.app/i/html5.svg">
   <img align="center" alt="Dayvson-CSS" width="40" height="30" src="https://devicons.railway.app/i/css3.svg">
-  <img align="center" width="40" height="30" alt="Dayvson-Figma" src="https://devicons.railway.app/i/figma.svg">
   <img align="center" width="40" height="30" alt="Dayvson-Tailwind" src="https://user-images.githubusercontent.com/102249811/191096932-b5ac035f-8cb7-4718-b966-789278dbaa69.svg">
-  <img align="center" width="40" height="30" alt="Dayvson-Sass" src="https://devicons.railway.app/i/sass.svg">
+  <img align="center" width="40" height="30" alt="Dayvson-Boostrap" src="https://devicons.railway.app/i/bootstrap.svg">
+  <img align="center" alt="Dayvson-Js" width="40" height="30" src="https://devicons.railway.app/i/javascript.svg">
+  <img align="center" alt="Dayvson-React" width="40" height="30" src="https://devicons.railway.app/i/react.svg">
   <img align="center" alt="Dayvson-StyledComponents" width="60" height="60" src="https://user-images.githubusercontent.com/102249811/191101190-e3d088af-a3d7-4341-8cb6-67bb020fc5cd.png">
-  
-  
-  
-  
-  <!--<img align="center" alt="Dayvson-Node" width="40" height="30" src="https://devicons.railway.app/i/nodejs.svg">-->
-  <img align="center" alt="Dayvson-MongoDb" width="40" height="30" src="https://devicons.railway.app/i/mongodb.svg">
+  <img align="center" alt="Dayvson-Next" width="40" height="30" src="https://devicons.railway.app/i/nextjs-dark.svg">
+  <img align="center" alt="Dayvson-Angular" width="40" height="30" src="https://devicons.railway.app/i/angularjs.svg">
+  <img align="center" alt="Dayvson-TypeScript" width="40" height="30" src="https://devicons.railway.app/i/typescript.svg">
+  <img align="center" alt="Dayvson-Node" width="40" height="30" src="https://devicons.railway.app/i/nodejs.svg">
+  <img align="center" alt="Dayvson-Nest" width="40" height="30" src="https://devicons.railway.app/i/nestjs.svg">
+  <img align="center" alt="Dayvson-TypeORM" width="40" height="30" src="https://github.com/dayvsonlsantos/dayvsonlsantos/assets/102249811/e26a6f41-5804-47a9-a5da-c9bf15e1ccaf">
+  <img align="center" alt="Dayvson-Python" width="40" height="30" src="https://devicons.railway.app/i/python.svg">
+  <img align="center" alt="Dayvson-MySQL" width="40" height="30" src="https://devicons.railway.app/i/postgresql.svg">
   <img align="center" alt="Dayvson-MySQL" width="40" height="30" src="https://devicons.railway.app/i/mysql.svg">
+  <img align="center" alt="Dayvson-MongoDb" width="40" height="30" src="https://devicons.railway.app/i/mongodb.svg">
   <img align="center" alt="Dayvson-Docker" width="40" height="30" src="https://devicons.railway.app/i/docker.svg">
- 
+  <img align="center" width="40" height="30" alt="Dayvson-Figma" src="https://devicons.railway.app/i/figma.svg">
+<!--   <img align="center" width="40" height="30" alt="Dayvson-Sass" src="https://devicons.railway.app/i/sass.svg"> -->
   </br>
 </div>
 
