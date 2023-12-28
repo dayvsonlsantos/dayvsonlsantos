@@ -3,7 +3,7 @@
 Me chamo <b>Dayvson Lima</b>, e estou me formando em Análise e Desenvolvimento de Sistemas na Faculdade Senac.
 
 🔭 Este é meu portifólio que contém a minha história como Desenvolvedor! 🚀🚀 <br>
-🌱 No momento estou me especializando em Angular, TypeScript, Nest.js ✏️💻 <br>
+🌱 No momento estou me especializando em Angular, TypeScript, Flutter ✏️💻 <br>
 📫 Como entrar em contato: Pode me chamar pelo Linkedin ou E-mail 😉 
 
 <hr>
@@ -11,7 +11,7 @@ Me chamo <b>Dayvson Lima</b>, e estou me formando em Análise e Desenvolvimento 
 My name is <b>Dayvson Lima</b>, and I'm currently studying <b>Analysis and Systems Development</b> at Senac.
 
 🔭 This is my portfolio that contains my story as a Developer! 🚀🚀 <br>
-🌱 I’m currently learning Angular, TypeScript, Nest.js ✏️💻 <br>
+🌱 I’m currently learning Angular, TypeScript, Flutter ✏️💻 <br>
 📫 How to reach me: you can contact me through my profile on linkedin or emailing me 😉
 
 <br>
@@ -37,6 +37,7 @@ My name is <b>Dayvson Lima</b>, and I'm currently studying <b>Analysis and Syste
   <img align="center" alt="Dayvson-Next" width="40" height="30" src="https://devicons.railway.app/i/nextjs-dark.svg">
   <img align="center" alt="Dayvson-Angular" width="40" height="30" src="https://devicons.railway.app/i/angularjs.svg">
   <img align="center" alt="Dayvson-TypeScript" width="40" height="30" src="https://devicons.railway.app/i/typescript.svg">
+  <img align="center" alt="Dayvson-Flutter" width="40" height="30" src="https://devicons.railway.app/i/flutter.svg">
   <img align="center" alt="Dayvson-Node" width="40" height="30" src="https://devicons.railway.app/i/nodejs.svg">
   <img align="center" alt="Dayvson-Nest" width="40" height="30" src="https://devicons.railway.app/i/nestjs.svg">
   <img align="center" alt="Dayvson-TypeORM" width="40" height="30" src="https://github.com/dayvsonlsantos/dayvsonlsantos/assets/102249811/e26a6f41-5804-47a9-a5da-c9bf15e1ccaf">
