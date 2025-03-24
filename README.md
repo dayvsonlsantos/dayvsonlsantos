@@ -1,17 +1,15 @@
 ## Fala Dev 😜 | What's up ?
 
-Me chamo <b>Dayvson Lima</b>, e estou me formando em Análise e Desenvolvimento de Sistemas na Faculdade Senac.
+Me chamo <b>Dayvson Lima</b>, e sou formado em Análise e Desenvolvimento de Sistemas pela Faculdade Senac.
 
 🔭 Este é meu portifólio que contém a minha história como Desenvolvedor! 🚀🚀 <br>
-🌱 No momento estou me especializando em Angular, TypeScript, Flutter ✏️💻 <br>
 📫 Como entrar em contato: Pode me chamar pelo Linkedin ou E-mail 😉 
 
 <hr>
 
-My name is <b>Dayvson Lima</b>, and I'm currently studying <b>Analysis and Systems Development</b> at Senac.
+My name is <b>Dayvson Lima</b>, and I have a degree in <b>Systems Analysis and Development</b> from Senac.
 
 🔭 This is my portfolio that contains my story as a Developer! 🚀🚀 <br>
-🌱 I’m currently learning Angular, TypeScript, Flutter ✏️💻 <br>
 📫 How to reach me: you can contact me through my profile on linkedin or emailing me 😉
 
 <br>
@@ -47,6 +45,9 @@ My name is <b>Dayvson Lima</b>, and I'm currently studying <b>Analysis and Syste
   <img align="center" alt="Dayvson-MongoDb" width="40" height="30" src="https://devicons.railway.app/i/mongodb.svg">
   <img align="center" alt="Dayvson-Docker" width="40" height="30" src="https://devicons.railway.app/i/docker.svg">
   <img align="center" width="40" height="30" alt="Dayvson-Figma" src="https://devicons.railway.app/i/figma.svg">
+  <img align="center" width="30" height="30" alt="Dayvson-Rabbit" src="https://github.com/user-attachments/assets/d683f1d4-9fe0-42b9-acdd-0a7527d02c11">
+  <img align="center" width="40" height="30" alt="Dayvson-Redis" src="https://devicons.railway.com/i/redis.svg">
+
 <!--   <img align="center" width="40" height="30" alt="Dayvson-Sass" src="https://devicons.railway.app/i/sass.svg"> -->
   </br>
 </div>
